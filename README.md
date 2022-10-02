@@ -12,7 +12,7 @@ Getting started: [Starling wiki page](http://wiki.starling-framework.org/extensi
 ## Overview
 This particle system is based on and compatible with the [original](https://github.com/PrimaryFeather/Starling-Extension-Particle-System) but provides some additional features and various performance improvements.
 
-##New Features:
+## New Features:
   * particle pool
   * batching (less draw calls)
   * multi buffering (avoid stalling)
